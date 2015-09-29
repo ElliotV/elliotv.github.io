@@ -180,6 +180,10 @@ section {
     width:auto;
     width: 500px;
     max-height: 100%;
+    
+    -webkit-transform: none !important;
+    -ms-transform: none !important;
+    transform: none !important;
 }
 
 
