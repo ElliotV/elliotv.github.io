@@ -205,6 +205,24 @@ section {
     transform: none !important;
 }
 
+.img-widemodal {
+    width:auto;
+    max-width: 1000px;
+    max-height: 370px;
+    padding: inherit;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+    
+    
+    -webkit-transform: none !important;
+    -ms-transform: none !important;
+    transform: none !important;
+}
+
 
 /*================================
     MODAL STYLES
@@ -257,8 +275,24 @@ section {
     vertical-align: top;
 }
 
+.modal-widediv {
+    width: 1000px;
+    display: inline-block;
+    vertical-align: top;
+}
+
 .modal-imagediv {
     width: 500px;
+    height: 400px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+
+
+}
+
+.modal-wideimagediv {
+    width: 1000px;
     height: 400px;
     display: inline-block;
     vertical-align: top;
