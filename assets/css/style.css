@@ -270,12 +270,14 @@ section {
 }
 
 .modal-div {
+    padding:20px;
     width: 500px;
     display: inline-block;
     vertical-align: top;
 }
 
 .modal-widediv {
+
     width: 1000px;
     display: inline-block;
     vertical-align: top;
