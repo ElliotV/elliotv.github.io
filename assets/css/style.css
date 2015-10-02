@@ -166,7 +166,8 @@ section {
 
     #video-sec .overlay {
         background-color: rgba(35, 133, 161, 0.75);
-        min-height: 300px;
+        min-height: 200px;
+        max-height: 200px;
         color: #fff;
     }
 
