@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/elliotv.github.io/precache-manifest.fb24a860874ed3ed10462d30954d6c07.js"
+  "/elliotv.github.io/precache-manifest.dfb750d61c0afeb9e82d1b8cd65471b9.js"
 );
 
 workbox.clientsClaim();
